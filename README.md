@@ -107,7 +107,7 @@ This project is open-source and available under the [MIT License](https://openso
 ## **Contact**
 
 Feel free to reach out if you have any questions, suggestions, or feedback!
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dinesh-lokare-91855422b/)
+- **Email**: dineshlokare12@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dinesh-lokare-91855422b/)
   
 
